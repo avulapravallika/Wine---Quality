@@ -10,6 +10,6 @@ This repository contains the final project for a data analysis course conducted 
 - Model Development: Determine the response variable and potential predictor variables, and develop an appropriate prediction model.
 
 ### Project Structure:
-- data/: Contains the dataset used for analysis.
-- scripts/: Contains R scripts used for data cleaning, analysis, and model development.
-- reports/: Contains the final report detailing the analysis and findings.
+- Contains the dataset used for analysis.
+- Contains R scripts used for data cleaning, analysis, and model development.
+- Contains the final report detailing the analysis and findings.
